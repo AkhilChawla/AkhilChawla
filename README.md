@@ -1,154 +1,65 @@
-<!-- Header -->
-<h1 align="center">Akhil Chawla</h1>
-<p align="center">
-  <b>Backend • Cloud • Data • AI</b><br/>
-  Master’s in CS at NC State (GPA 4.0) • Graduating May 2026
-</p>
-
-<!-- Socials -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhil-chawla-a9b9851a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4CC9F0?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:akhilchawla0014@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akhilchawla0014%40gmail.com-F72585?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AkhilChawla">
-    <img src="https://img.shields.io/badge/GitHub-AkhilChawla-3A0CA3?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<h1 align="center">Hi there, I'm Akhil Chawla 👋</h1>
+<h3 align="center">Building reliable backend systems, scalable cloud pipelines, and AI-driven applications.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhilChawla&style=for-the-badge&color=4895EF" alt="profile views"/>
+  <a href="https://linkedin.com/in/akhil-chawla-a9b9851a1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mastodon.social/@Akhil"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  <a href="mailto:akhilchawla0014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<br/>
+---
 
-<!-- About -->
-<h2>💫 About Me</h2>
+### 💫 About Me
 
-I’m a Master’s student in Computer Science at NC State (4.0 GPA) building reliable backend systems, scalable cloud pipelines, and AI-driven applications.  
-I enjoy designing systems that stay correct under failure conditions and at scale.  
-Graduating May 2026 and actively seeking Software Engineering, Backend, Cloud, Data Engineering, and AI/ML roles.
+I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy designing systems that operate correctly under real-world failure conditions and at scale. **Graduating May 2026** and actively seeking Software Engineering, Backend, Cloud, Data Engineering, and AI/ML roles.
 
-<br/>
+* 🛠 **Currently working on:** Distributed backend systems in Go and Python, cloud-native AWS data pipelines, RAG systems with LangChain, and production microservices with FastAPI, Docker, and Kubernetes.
+* 🤝 **Looking to collaborate on:** High-performance backend systems, scalable data engineering pipelines, LLM-based applications, and open source infrastructure or cloud tooling projects.
+* 🌱 **Currently learning:** Advanced distributed systems concepts, large-scale data infrastructure design, efficient ML systems, and observability patterns.
+* 💬 **Ask me about:** Designing zero data loss event pipelines, Go-based backend services, and turning research ideas into production systems.
+* ⚡ **Fun fact:** I have won multiple hackathons, organized HackNC, and genuinely enjoy building production-grade systems under 48-hour deadlines.
 
-<!-- Focus areas as a cleaner grid -->
-<table>
+---
+
+### 💻 Tech Stack
+
+**Languages** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+**Backend & Web** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+
+**Data & Databases** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Machine Learning & Data Science** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-
-### 🛠 Currently working on
-- Distributed backend systems in Go and Python  
-- Cloud-native data pipelines on AWS  
-- RAG systems using LangChain and vector databases  
-- Production-ready microservices with FastAPI, Docker, and Kubernetes  
-
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AkhilChawla&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Akhil's GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-
-### 🌱 Currently learning
-- Advanced distributed systems concepts  
-- Large-scale data infrastructure design  
-- Efficient ML systems and model optimization  
-- Observability and reliability patterns  
-
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=AkhilChawla&theme=dark&hide_border=false" alt="Akhil's GitHub Streak" />
     </td>
   </tr>
 </table>
 
-### 💬 Ask me about
-- Zero data loss event pipelines and replay semantics  
-- Cloud-native ETL on AWS  
-- Go services, protobuf messaging, and reliability patterns  
-- RAG systems, hybrid search, and retrieval evaluation  
-
-### ⚡ Fun fact
-I’ve won multiple hackathons, organized HackNC, and genuinely enjoy building production-grade systems under 48-hour deadlines.
-
-<br/>
-
-<!-- Skills: grouped, fewer badges, consistent style -->
-<h2>🧰 Tech Stack</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Core%20Languages-111827?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Go-4895EF?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-4895EF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4895EF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-4895EF?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-4895EF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-3A0CA3?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-3A0CA3?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-3A0CA3?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protobuf-3A0CA3?style=for-the-badge&logo=protobuf&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-3A0CA3?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-111827?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-F72585?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-F72585?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-F72585?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-F72585?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-F72585?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Engineering-111827?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Spark-4CC9F0?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-4CC9F0?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-4CC9F0?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4CC9F0?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4CC9F0?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20RAG-111827?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-4895EF?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-4895EF?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-4895EF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- Stats: consistent theme and borders -->
-<h2>📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhilChawla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AkhilChawla&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilChawla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilChawla&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhilChawla&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
-<br/>
-
-<h2>🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhilChawla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-<br/>
-
-<h2>🔝 Top Contributed Repos</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AkhilChawla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
+---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AkhilChawla&icon=2&color=6" />
+    <img src="https://visitcount.itsvg.in/api?id=AkhilChawla&icon=2&color=3" alt="Profile Views">
   </a>
 </p>
