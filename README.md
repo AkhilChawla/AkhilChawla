@@ -3,11 +3,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/akhil-chawla-a9b9851a1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://mastodon.social/@Akhil"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
   <a href="mailto:akhilchawla0014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+***
 
 ### 💫 About Me
 
@@ -19,7 +18,7 @@ I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy desig
 * 💬 **Ask me about:** Designing zero data loss event pipelines, Go-based backend services, and turning research ideas into production systems.
 * ⚡ **Fun fact:** I have won multiple hackathons, organized HackNC, and genuinely enjoy building production-grade systems under 48-hour deadlines.
 
----
+***
 
 ### 💻 Tech Stack
 
@@ -43,7 +42,7 @@ I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy desig
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
----
+***
 
 ### 📊 GitHub Stats
 
@@ -51,10 +50,6 @@ I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy desig
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilChawla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
+***
 
-![](https://github-profile-trophy.vercel.app/?username=AkhilChawla&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=AkhilChawla&icon=2&color=3)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=AkhilChawla&color=blue)](https://github.com/AkhilChawla)
