@@ -16,7 +16,7 @@ I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy desig
 * 🤝 **Looking to collaborate on:** High-performance backend systems, scalable data engineering pipelines, LLM-based applications, and open source infrastructure or cloud tooling projects.
 * 🌱 **Currently learning:** Advanced distributed systems concepts, large-scale data infrastructure design, efficient ML systems, and observability patterns.
 * 💬 **Ask me about:** Designing zero data loss event pipelines, Go-based backend services, and turning research ideas into production systems.
-* ⚡ **Fun fact:** I have won multiple hackathons, organized HackNC, and genuinely enjoy building production-grade systems under 48-hour deadlines.
+* ⚡ **Fun fact:** I have won multiple hackathons, organized HackNCState, and genuinely enjoy building production-grade systems under 48-hour deadlines.
 
 ***
 
