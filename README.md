@@ -46,10 +46,6 @@ I am a Master's student in Computer Science at NC State (4.0 GPA). I enjoy desig
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AkhilChawla&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=AkhilChawla&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilChawla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-***
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AkhilChawla&color=blue)](https://github.com/AkhilChawla)
+![](https://github-readme-stats.vercel.app/api?username=AkhilChawla&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AkhilChawla&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilChawla&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
